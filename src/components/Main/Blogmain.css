@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  justify-content: center;
+  overflow: hidden;
+}
+.MainFlex {
+  display: flex;
+}
+
+#box {
+  width: 33%;
+}
+
+.demobox1 {
+  background-color: #ffdca9;
+  width: 2500px;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 15px;
+}
+
+.demobox h1 {
+  padding: 0% !important;
+}
