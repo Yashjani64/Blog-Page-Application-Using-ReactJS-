@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Montserrat:wght@100;300;400;500;600;700&family=Paytone+One&family=Rubik:wght@400;500;600;700&display=swap");
+* {
+  overflow-x: hidden;
+  overflow-y: auto;
+  font-family: "Inter", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Paytone One", sans-serif;
+  font-family: "Rubik", sans-serif;
+}

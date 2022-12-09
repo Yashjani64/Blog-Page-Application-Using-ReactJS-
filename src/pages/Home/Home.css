@@ -1,0 +1,16 @@
+body {
+  background-color: #f2d4bc;
+}
+.float-container {
+  border: 3px solid #fff;
+  padding: 10px;
+}
+
+.float-child {
+  float: left;
+  width: 0%;
+  padding: 0px;
+}
+.Flex {
+  display: flex;
+}
